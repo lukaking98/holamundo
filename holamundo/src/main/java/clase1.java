@@ -9,5 +9,5 @@
  * @author Diurno
  */
 public class clase1 {
-    private String diznuts;
+    private String diznutsxd;
 }
